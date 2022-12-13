@@ -1,5 +1,4 @@
-/* create a javascript code to scrape IP information */
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											
 			js = "javascript:"
 			js += "function getCity(callback) {"
 			js += "var xmlhttp = new XMLHttpRequest();"
